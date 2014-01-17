@@ -1,0 +1,15 @@
+= Case Study
+
+== Content
+
+== Introduction
+
+== List of the backlogs per sprint
+
+== Diagrams from the models
+
+== Tests description
+
+== Generated documentation
+
+== Screenshots from the application
